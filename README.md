@@ -1,7 +1,7 @@
 # Value of Data Science Skills from Job Postings
 ECON 1680: Machine Learning, Text Analysis, and Economics
 
-### Research Questions: Which skills in Glassdoor job postings of data science positions are most predictive of expected annual salary? What are the current in-demand skills for data science roles? 
+### Research Question: Which skills in Glassdoor job postings of data science positions are most predictive of expected annual salary?
 
 #### Navigating Folders: 
 - Code: preprocessing of data and analysis (method implementation)
